@@ -1,0 +1,32 @@
+{
+  "reference_deck": "https://docs.google.com/presentation/d/1eJN6FF95TLN6_h-VJoeOM7KnGlnWcs98fKaSeX1QyzM/edit",
+  "results_slide_sources": {"delay":{"slide":11,"drive_video_id":"1mdIeHIg-7YxpWgZvwlGvnzwrQlaBQg9o","local":"slides_review_oct08/delay-drive-verified.mp4"},"excessive_guidance":{"slide":15,"drive_video_id":"17Mk38HA8-WHxkUybDclfKSdDCfcMFwMA","local":"slides_review_oct08/refilms/interrupt/final.mp4"},"drift":{"slide":15,"image_ids":["hbe5934fe4e5d457_1_150","hbe5934fe4e5d457_1_151"],"method":"Original slide image assets, unchanged"},"other_results":{"slide":16}},
+  "media": {
+    "task-steak": "cook-bench-engine/tmp/gt3/expert_nops_medium_map.mp4 (verified WON in adjacent log; sped up 2x from 1.5x source)",
+    "task-readability": "ScreenSim parent_phone_readability reference plan; native film_hand gestures; goal verified, 11 ticks; exports/technical_sections/add_task_films.py",
+    "task-bedside": "ScreenSim standby_bedside reference plan; native film_hand gestures; goal verified, 7 ticks; exports/technical_sections/add_task_films.py",
+    "task-cook": "cooksim-slides/videos/gt_cheeseburger_completion.mp4",
+    "task-aftermeal": "vh-bench-pages/new-tasks/video/aftermeal_hard.mp4",
+    "task-guest": "vh-bench-pages/new-tasks/video/guest_hard.mp4",
+    "task-bedroom": "vh-bench-pages/new-tasks/video/tidybedroom_hard.mp4",
+    "task-phone": "slides_review_oct08/screensim-task-completion.mp4",
+    "action-pan": "cooksim-slides/talk/act_goto_grounded.gif",
+    "action-rice": "slides_review_oct08/rice-retrieval.gif",
+    "action-fridge": "cooksim-slides/talk/vh_act_go_to_fridge_v2.gif",
+    "action-book": "cooksim-slides/talk/vh_act_put_book_on_coffeetable_v3.gif",
+    "event-extra": "cooksim-slides/talk/eg_add_foreign.gif",
+    "event-raw": "cooksim-slides/talk/eg_serve_raw.gif",
+    "event-unattended": "cooksim-slides/talk/eg_leave_unattended.gif",
+    "event-plan": "cooksim-slides/talk/dv_g3_planchange_aplus.gif",
+    "event-question": "cooksim-slides/talk/dv_g3_question_aplus.gif"
+  },
+  "persona_source": "cook-bench-engine/cooksim/interact/persona_v2.py",
+  "persona_comparison": {"selection":"Original August 4 persona contrast slide clips specified by the author", "skilled_clip":"cook-bench-engine/tmp/talk4/clip1_v3.mp4", "skilled_window_seconds":[24,54], "skilled_record":"cook-bench-engine/tmp/v5/rank/rank__creative_uninterruptible__frames__r1.json.bak", "novice_clip":"cook-bench-engine/tmp/talk4/clip2_fixed.mp4", "novice_record":"cook-bench-engine/tmp/v5/intent/intent__qa_pan_contents__novice_stepwise__aplus.json", "novice_full_video_start_seconds":94.9, "novice_playback_speed":1.0533333333333332, "method":"Original recorded motion and audio, cropped to two views and restyled with synchronized captions. Skilled captions aligned to original burned-in caption transitions at 0.1-second resolution; novice captions use original film timeline. The examples differ in assistant observation tier and event schedule; not a controlled persona-only comparison."},
+  "persona_axes": [
+    "skill",
+    "trust",
+    "speed",
+    "interruption"
+  ],
+  "note": "Completion videos and event/action demonstrations are distinct. CookSim task is a reference rollout at 3x; event demonstrations are scripted, not assistant benchmark outcomes. Four persona axes follow the current paper."
+}
