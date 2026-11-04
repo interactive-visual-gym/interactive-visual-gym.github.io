@@ -1,0 +1,2 @@
+Salesforce cloud logo: https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg
+Fonts: existing Salesforce demo assets; original provenance in ivg-project-redesign/docs/video-demo/fonts/SOURCES.txt.
