@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Task showcase · Interactive Visual Gym</title>
+<meta name="description" content="Thirty everyday tasks in Interactive Visual Gym, with complete simulator videos and synchronized action sequences.">
+<link rel="canonical" href="https://interactive-visual-gym.salesforceairesearch.com/tasks/">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../salesforce.css"><link rel="stylesheet" href="showcase.css">
+</head>
+<body>
+<a class="skip-link" href="#task-player">Skip to task video</a>
+<header class="showcase-nav"><a class="brand" href="../"><img src="../assets/salesforce-logo.svg" alt="Salesforce" width="66" height="46"><span>Interactive Visual Gym</span></a><a class="back-link" href="../">← Project page</a></header>
+<main>
+  <header class="page-intro"><h1>Task showcase</h1><p class="intro-copy">Ten everyday tasks from each simulator, with complete reference videos and synchronized action sequences.</p></header>
+  <div class="engine-tabs" role="tablist" aria-label="Simulator">
+    <button role="tab" id="tab-cook" aria-selected="true" aria-controls="showcase-panel" data-engine="cook"><span class="tab-name">Cooking</span><span class="tab-engine">CookSim</span></button>
+    <button role="tab" id="tab-vh" aria-selected="false" aria-controls="showcase-panel" tabindex="-1" data-engine="vh"><span class="tab-name">Household activities</span><span class="tab-engine">VHSim</span></button>
+    <button role="tab" id="tab-screen" aria-selected="false" aria-controls="showcase-panel" tabindex="-1" data-engine="screen"><span class="tab-name">Mobile interfaces</span><span class="tab-engine">ScreenSim</span></button>
+  </div>
+  <section id="showcase-panel" role="tabpanel" aria-labelledby="tab-cook" data-engine="cook">
+    <div class="task-heading"><div><p class="task-position" id="task-position"></p><h2 id="task-title"></h2><p id="task-description"></p></div><div class="task-arrows"><button id="previous-task" aria-label="Previous task">←</button><button id="next-task" aria-label="Next task">→</button></div></div>
+    <div class="player-layout" id="task-player">
+      <div class="film-column">
+        <div class="video-stage"><video id="task-video" controls playsinline preload="metadata" aria-labelledby="task-title" aria-describedby="task-description"></video><button class="video-start" id="video-start" type="button" aria-label="Play task completion video"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 11 7-11 7z"/></svg></button><div class="view-labels" id="view-labels" aria-hidden="true"></div></div>
+        <div class="completion-strip"><div class="completion-heading"><span id="completion-status">Task progress</span><span id="completion-count"></span></div><div class="completion-track" role="progressbar" aria-label="Completed actions" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div id="completion-fill"></div></div></div>
+      </div>
+      <aside class="sequence-panel" aria-labelledby="sequence-title"><div class="sequence-heading"><h3 id="sequence-title">Action sequence</h3><span id="sequence-count"></span></div><ol id="action-sequence"></ol></aside>
+    </div>
+    <section class="task-library" aria-labelledby="library-title"><div class="library-heading"><h3 id="library-title">More cooking tasks</h3><span>10 tasks</span></div><div id="task-grid" class="task-grid"></div></section>
+  </section>
+  <p id="load-error" hidden>We couldn’t load the task library. Please refresh the page.</p>
+</main>
+<footer><a href="../">Interactive Visual Gym</a><span>University of Washington · Salesforce AI Research</span></footer>
+<script src="showcase.js" type="module"></script>
+</body></html>

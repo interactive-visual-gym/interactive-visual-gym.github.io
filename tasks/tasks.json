@@ -1,0 +1,3828 @@
+[
+  {
+    "id": "cook-loaded_burrito",
+    "engine": "cook",
+    "title": "Prepare a loaded burrito",
+    "description": "Plate tortilla, cooked rice, cooked steak, chopped tomato, and chopped lettuce, in that order.",
+    "video": "media/cook-loaded_burrito.mp4",
+    "poster": "media/cook-loaded_burrito.jpg",
+    "duration": 70.4,
+    "actions": [
+      {
+        "text": "go to the rice source",
+        "start": 0.4,
+        "end": 3.2,
+        "tick": 7,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 3.6,
+        "end": 4.0,
+        "tick": 9,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pot",
+        "start": 4.4,
+        "end": 8.0,
+        "tick": 19,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 8.4,
+        "end": 8.8,
+        "tick": 21,
+        "status": "done"
+      },
+      {
+        "text": "go to the steak source",
+        "start": 9.200000000000001,
+        "end": 10.4,
+        "tick": 25,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 10.8,
+        "end": 11.200000000000001,
+        "tick": 27,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 11.600000000000001,
+        "end": 16.8,
+        "tick": 41,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 17.2,
+        "end": 17.599999999999998,
+        "tick": 43,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 18.0,
+        "end": 19.6,
+        "tick": 48,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 20.0,
+        "end": 20.4,
+        "tick": 50,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pan",
+        "start": 20.8,
+        "end": 25.2,
+        "tick": 62,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 25.6,
+        "end": 26.0,
+        "tick": 64,
+        "status": "done"
+      },
+      {
+        "text": "go to the tomato source",
+        "start": 26.4,
+        "end": 27.6,
+        "tick": 68,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 28.0,
+        "end": 28.4,
+        "tick": 70,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 28.8,
+        "end": 30.0,
+        "tick": 74,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 30.4,
+        "end": 30.8,
+        "tick": 76,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 31.2,
+        "end": 32.8,
+        "tick": 81,
+        "status": "done"
+      },
+      {
+        "text": "go to the lettuce source",
+        "start": 33.2,
+        "end": 34.4,
+        "tick": 85,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 34.8,
+        "end": 35.2,
+        "tick": 87,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 35.6,
+        "end": 36.0,
+        "tick": 89,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 36.4,
+        "end": 36.8,
+        "tick": 91,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 37.2,
+        "end": 38.800000000000004,
+        "tick": 96,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the rice",
+        "start": 39.2,
+        "end": 42.0,
+        "tick": 104,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 42.4,
+        "end": 42.800000000000004,
+        "tick": 106,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the steak",
+        "start": 43.2,
+        "end": 44.4,
+        "tick": 110,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 44.800000000000004,
+        "end": 45.2,
+        "tick": 112,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 45.6,
+        "end": 47.2,
+        "tick": 117,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 47.6,
+        "end": 48.0,
+        "tick": 119,
+        "status": "done"
+      },
+      {
+        "text": "go to the tortilla source",
+        "start": 48.4,
+        "end": 52.4,
+        "tick": 130,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 52.800000000000004,
+        "end": 53.2,
+        "tick": 132,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the rice",
+        "start": 53.6,
+        "end": 56.800000000000004,
+        "tick": 141,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 57.2,
+        "end": 57.6,
+        "tick": 143,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the steak",
+        "start": 58.0,
+        "end": 59.2,
+        "tick": 147,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 59.6,
+        "end": 60.0,
+        "tick": 149,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the tomato",
+        "start": 60.4,
+        "end": 62.800000000000004,
+        "tick": 156,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 63.2,
+        "end": 63.6,
+        "tick": 158,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the lettuce",
+        "start": 64.0,
+        "end": 65.60000000000001,
+        "tick": 163,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 66.00000000000001,
+        "end": 66.4,
+        "tick": 165,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 66.80000000000001,
+        "end": 68.00000000000001,
+        "tick": 169,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 68.4,
+        "end": 68.80000000000001,
+        "tick": 171,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:loaded_burrito",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-loaded_burrito-start.jpg"
+  },
+  {
+    "id": "cook-steak_frites",
+    "engine": "cook",
+    "title": "Prepare steak frites",
+    "description": "Chop and pan-cook steak, deep-fry two portions of chopped potatoes, then plate the steak followed by the fries.",
+    "video": "media/cook-steak_frites.mp4",
+    "poster": "media/cook-steak_frites.jpg",
+    "duration": 68.4,
+    "actions": [
+      {
+        "text": "go to the steak source",
+        "start": 0.4,
+        "end": 2.4,
+        "tick": 5,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 2.8000000000000003,
+        "end": 3.2,
+        "tick": 7,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 3.6,
+        "end": 5.6000000000000005,
+        "tick": 13,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 6.000000000000001,
+        "end": 6.4,
+        "tick": 15,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 6.800000000000001,
+        "end": 8.4,
+        "tick": 20,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 8.8,
+        "end": 9.200000000000001,
+        "tick": 22,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pan",
+        "start": 9.600000000000001,
+        "end": 14.000000000000002,
+        "tick": 34,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 14.4,
+        "end": 14.8,
+        "tick": 36,
+        "status": "done"
+      },
+      {
+        "text": "go to the potato source",
+        "start": 15.200000000000001,
+        "end": 17.2,
+        "tick": 42,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 17.599999999999998,
+        "end": 18.0,
+        "tick": 44,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 18.4,
+        "end": 22.8,
+        "tick": 56,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 23.2,
+        "end": 23.6,
+        "tick": 58,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 24.0,
+        "end": 25.6,
+        "tick": 63,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 26.0,
+        "end": 26.4,
+        "tick": 65,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty fryer",
+        "start": 26.8,
+        "end": 29.6,
+        "tick": 73,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 30.0,
+        "end": 30.4,
+        "tick": 75,
+        "status": "done"
+      },
+      {
+        "text": "go to the potato source",
+        "start": 30.8,
+        "end": 32.0,
+        "tick": 79,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 32.4,
+        "end": 32.8,
+        "tick": 81,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 33.2,
+        "end": 37.6,
+        "tick": 93,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 38.0,
+        "end": 38.4,
+        "tick": 95,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 38.800000000000004,
+        "end": 40.4,
+        "tick": 100,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 40.800000000000004,
+        "end": 41.2,
+        "tick": 102,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 41.6,
+        "end": 44.4,
+        "tick": 110,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 44.800000000000004,
+        "end": 45.2,
+        "tick": 112,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the steak",
+        "start": 45.6,
+        "end": 48.0,
+        "tick": 119,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 48.4,
+        "end": 48.800000000000004,
+        "tick": 121,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 49.2,
+        "end": 51.6,
+        "tick": 128,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 52.0,
+        "end": 52.4,
+        "tick": 130,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 52.800000000000004,
+        "end": 56.0,
+        "tick": 139,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 56.4,
+        "end": 56.800000000000004,
+        "tick": 141,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the steak",
+        "start": 57.2,
+        "end": 57.6,
+        "tick": 143,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 58.0,
+        "end": 58.4,
+        "tick": 145,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 58.800000000000004,
+        "end": 62.4,
+        "tick": 155,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 62.800000000000004,
+        "end": 63.2,
+        "tick": 157,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 63.6,
+        "end": 66.00000000000001,
+        "tick": 164,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 66.4,
+        "end": 66.80000000000001,
+        "tick": 166,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:steak_frites",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-steak_frites-start.jpg"
+  },
+  {
+    "id": "cook-fish_and_chips_platter",
+    "engine": "cook",
+    "title": "Prepare fish and chips",
+    "description": "Deep-fry fish and two portions of chopped potatoes, then plate the fish followed by the chips.",
+    "video": "media/cook-fish_and_chips_platter.mp4",
+    "poster": "media/cook-fish_and_chips_platter.jpg",
+    "duration": 62.4,
+    "actions": [
+      {
+        "text": "go to the fish source",
+        "start": 0.4,
+        "end": 1.6,
+        "tick": 3,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 2.0,
+        "end": 2.4,
+        "tick": 5,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty fryer",
+        "start": 2.8000000000000003,
+        "end": 6.4,
+        "tick": 15,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 6.800000000000001,
+        "end": 7.200000000000001,
+        "tick": 17,
+        "status": "done"
+      },
+      {
+        "text": "go to the potato source",
+        "start": 7.6000000000000005,
+        "end": 10.8,
+        "tick": 26,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 11.200000000000001,
+        "end": 11.600000000000001,
+        "tick": 28,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 12.000000000000002,
+        "end": 14.4,
+        "tick": 35,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 14.8,
+        "end": 15.200000000000001,
+        "tick": 37,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 15.600000000000001,
+        "end": 17.2,
+        "tick": 42,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 17.599999999999998,
+        "end": 18.0,
+        "tick": 44,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty fryer",
+        "start": 18.4,
+        "end": 22.4,
+        "tick": 55,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 22.8,
+        "end": 23.2,
+        "tick": 57,
+        "status": "done"
+      },
+      {
+        "text": "go to the potato source",
+        "start": 23.6,
+        "end": 30.0,
+        "tick": 74,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 30.4,
+        "end": 30.8,
+        "tick": 76,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 31.2,
+        "end": 33.6,
+        "tick": 83,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 34.0,
+        "end": 34.4,
+        "tick": 85,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 34.8,
+        "end": 36.4,
+        "tick": 90,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 36.8,
+        "end": 37.2,
+        "tick": 92,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 37.6,
+        "end": 41.6,
+        "tick": 103,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 42.0,
+        "end": 42.4,
+        "tick": 105,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the fish",
+        "start": 42.800000000000004,
+        "end": 44.4,
+        "tick": 110,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 44.800000000000004,
+        "end": 45.2,
+        "tick": 112,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 45.6,
+        "end": 46.800000000000004,
+        "tick": 116,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 47.2,
+        "end": 47.6,
+        "tick": 118,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 48.0,
+        "end": 48.800000000000004,
+        "tick": 121,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 49.2,
+        "end": 49.6,
+        "tick": 123,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the fish",
+        "start": 50.0,
+        "end": 52.4,
+        "tick": 130,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 52.800000000000004,
+        "end": 53.2,
+        "tick": 132,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 53.6,
+        "end": 54.800000000000004,
+        "tick": 136,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 55.2,
+        "end": 55.6,
+        "tick": 138,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 56.0,
+        "end": 60.0,
+        "tick": 149,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 60.4,
+        "end": 60.800000000000004,
+        "tick": 151,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:fish_and_chips_platter",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-fish_and_chips_platter-start.jpg"
+  },
+  {
+    "id": "cook-shrimp_pasta",
+    "engine": "cook",
+    "title": "Prepare shrimp pasta",
+    "description": "Boil noodles, chop tomato, and sear shrimp; plate noodles, tomato, and shrimp in that order.",
+    "video": "media/cook-shrimp_pasta.mp4",
+    "poster": "media/cook-shrimp_pasta.jpg",
+    "duration": 66.0,
+    "actions": [
+      {
+        "text": "go to the noodles source",
+        "start": 0.4,
+        "end": 2.8000000000000003,
+        "tick": 6,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 3.2,
+        "end": 3.6,
+        "tick": 8,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pot",
+        "start": 4.0,
+        "end": 8.4,
+        "tick": 20,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 8.8,
+        "end": 9.200000000000001,
+        "tick": 22,
+        "status": "done"
+      },
+      {
+        "text": "go to the tomato source",
+        "start": 9.600000000000001,
+        "end": 14.4,
+        "tick": 35,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 14.8,
+        "end": 15.200000000000001,
+        "tick": 37,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 15.600000000000001,
+        "end": 17.599999999999998,
+        "tick": 43,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 18.0,
+        "end": 18.4,
+        "tick": 45,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 18.8,
+        "end": 20.4,
+        "tick": 50,
+        "status": "done"
+      },
+      {
+        "text": "go to the shrimp source",
+        "start": 20.8,
+        "end": 24.0,
+        "tick": 59,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 24.4,
+        "end": 24.8,
+        "tick": 61,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pan",
+        "start": 25.2,
+        "end": 30.8,
+        "tick": 76,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 31.2,
+        "end": 31.6,
+        "tick": 78,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the noodles",
+        "start": 32.0,
+        "end": 36.8,
+        "tick": 91,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 37.2,
+        "end": 37.6,
+        "tick": 93,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the shrimp",
+        "start": 38.0,
+        "end": 43.2,
+        "tick": 107,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 43.6,
+        "end": 44.0,
+        "tick": 109,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 44.4,
+        "end": 48.0,
+        "tick": 119,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 48.4,
+        "end": 48.800000000000004,
+        "tick": 121,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the noodles",
+        "start": 49.2,
+        "end": 51.2,
+        "tick": 127,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 51.6,
+        "end": 52.0,
+        "tick": 129,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the tomato",
+        "start": 52.4,
+        "end": 54.0,
+        "tick": 134,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 54.4,
+        "end": 54.800000000000004,
+        "tick": 136,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the shrimp",
+        "start": 55.2,
+        "end": 58.800000000000004,
+        "tick": 146,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 59.2,
+        "end": 59.6,
+        "tick": 148,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 60.0,
+        "end": 63.6,
+        "tick": 158,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 64.0,
+        "end": 64.4,
+        "tick": 160,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:shrimp_pasta",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-shrimp_pasta-start.jpg"
+  },
+  {
+    "id": "cook-sushi",
+    "engine": "cook",
+    "title": "Prepare sushi",
+    "description": "Cook rice, chop raw fish, and plate the rice followed by the fish.",
+    "video": "media/cook-sushi.mp4",
+    "poster": "media/cook-sushi.jpg",
+    "duration": 34.0,
+    "actions": [
+      {
+        "text": "go to the rice source",
+        "start": 0.4,
+        "end": 1.6,
+        "tick": 3,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 2.0,
+        "end": 2.4,
+        "tick": 5,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pot",
+        "start": 2.8000000000000003,
+        "end": 6.4,
+        "tick": 15,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 6.800000000000001,
+        "end": 7.200000000000001,
+        "tick": 17,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 7.6000000000000005,
+        "end": 8.0,
+        "tick": 19,
+        "status": "done"
+      },
+      {
+        "text": "go to the fish source",
+        "start": 8.4,
+        "end": 10.000000000000002,
+        "tick": 24,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 10.4,
+        "end": 10.8,
+        "tick": 26,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 11.200000000000001,
+        "end": 15.200000000000001,
+        "tick": 37,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 15.600000000000001,
+        "end": 16.0,
+        "tick": 39,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 16.4,
+        "end": 18.0,
+        "tick": 44,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 18.4,
+        "end": 20.0,
+        "tick": 49,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 20.4,
+        "end": 20.8,
+        "tick": 51,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the rice",
+        "start": 21.2,
+        "end": 23.2,
+        "tick": 57,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 23.6,
+        "end": 24.0,
+        "tick": 59,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the fish",
+        "start": 24.4,
+        "end": 27.2,
+        "tick": 67,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 27.6,
+        "end": 28.0,
+        "tick": 69,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 28.4,
+        "end": 31.6,
+        "tick": 78,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 32.0,
+        "end": 32.4,
+        "tick": 80,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:sushi",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-sushi-start.jpg"
+  },
+  {
+    "id": "cook-fried_rice",
+    "engine": "cook",
+    "title": "Prepare rice with egg and onion",
+    "description": "Cook rice, fry an egg, and chop onion; plate the rice, egg, and onion in that order.",
+    "video": "media/cook-fried_rice.mp4",
+    "poster": "media/cook-fried_rice.jpg",
+    "duration": 58.4,
+    "actions": [
+      {
+        "text": "go to the rice source",
+        "start": 0.4,
+        "end": 1.2000000000000002,
+        "tick": 2,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 1.6,
+        "end": 2.0,
+        "tick": 4,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pot",
+        "start": 2.4,
+        "end": 7.200000000000001,
+        "tick": 17,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 7.6000000000000005,
+        "end": 8.0,
+        "tick": 19,
+        "status": "done"
+      },
+      {
+        "text": "go to the egg source",
+        "start": 8.4,
+        "end": 13.600000000000001,
+        "tick": 33,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 14.000000000000002,
+        "end": 14.4,
+        "tick": 35,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pan",
+        "start": 14.8,
+        "end": 15.600000000000001,
+        "tick": 38,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 16.0,
+        "end": 16.4,
+        "tick": 40,
+        "status": "done"
+      },
+      {
+        "text": "go to the onion source",
+        "start": 16.8,
+        "end": 17.599999999999998,
+        "tick": 43,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 18.0,
+        "end": 18.4,
+        "tick": 45,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 18.8,
+        "end": 21.2,
+        "tick": 52,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 21.6,
+        "end": 22.0,
+        "tick": 54,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 22.4,
+        "end": 24.0,
+        "tick": 59,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the rice",
+        "start": 24.4,
+        "end": 28.4,
+        "tick": 70,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 28.8,
+        "end": 29.2,
+        "tick": 72,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the egg",
+        "start": 29.6,
+        "end": 34.8,
+        "tick": 86,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 35.2,
+        "end": 35.6,
+        "tick": 88,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 36.0,
+        "end": 39.6,
+        "tick": 98,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 40.0,
+        "end": 40.4,
+        "tick": 100,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the rice",
+        "start": 40.800000000000004,
+        "end": 42.800000000000004,
+        "tick": 106,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 43.2,
+        "end": 43.6,
+        "tick": 108,
+        "status": "done"
+      },
+      {
+        "text": "go to the pan with the egg",
+        "start": 44.0,
+        "end": 49.2,
+        "tick": 122,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 49.6,
+        "end": 50.0,
+        "tick": 124,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the onion",
+        "start": 50.4,
+        "end": 52.0,
+        "tick": 129,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 52.4,
+        "end": 52.800000000000004,
+        "tick": 131,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 53.2,
+        "end": 56.0,
+        "tick": 139,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 56.4,
+        "end": 56.800000000000004,
+        "tick": 141,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:fried_rice",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-fried_rice-start.jpg"
+  },
+  {
+    "id": "cook-loaded_fries",
+    "engine": "cook",
+    "title": "Prepare loaded fries",
+    "description": "Chop and deep-fry potatoes, then top the fries with cheese and serve.",
+    "video": "media/cook-loaded_fries.mp4",
+    "poster": "media/cook-loaded_fries.jpg",
+    "duration": 25.2,
+    "actions": [
+      {
+        "text": "go to the potato source",
+        "start": 0.4,
+        "end": 1.6,
+        "tick": 3,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 2.0,
+        "end": 2.4,
+        "tick": 5,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 2.8000000000000003,
+        "end": 3.6,
+        "tick": 8,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 4.0,
+        "end": 4.4,
+        "tick": 10,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 4.800000000000001,
+        "end": 6.4,
+        "tick": 15,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 6.800000000000001,
+        "end": 7.200000000000001,
+        "tick": 17,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty fryer",
+        "start": 7.6000000000000005,
+        "end": 10.4,
+        "tick": 25,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 10.8,
+        "end": 11.200000000000001,
+        "tick": 27,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 11.600000000000001,
+        "end": 12.000000000000002,
+        "tick": 29,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 12.4,
+        "end": 12.8,
+        "tick": 31,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 13.200000000000001,
+        "end": 13.600000000000001,
+        "tick": 33,
+        "status": "done"
+      },
+      {
+        "text": "go to the fryer with the potato",
+        "start": 14.000000000000002,
+        "end": 14.4,
+        "tick": 35,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 14.8,
+        "end": 18.0,
+        "tick": 44,
+        "status": "done"
+      },
+      {
+        "text": "go to the cheese source",
+        "start": 18.4,
+        "end": 20.0,
+        "tick": 49,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 20.4,
+        "end": 20.8,
+        "tick": 51,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 21.2,
+        "end": 22.8,
+        "tick": 56,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 23.2,
+        "end": 23.6,
+        "tick": 58,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:loaded_fries",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-loaded_fries-start.jpg"
+  },
+  {
+    "id": "cook-onion_soup",
+    "engine": "cook",
+    "title": "Prepare onion soup",
+    "description": "Chop three onions, boil them together, then ladle the soup into a bowl and serve.",
+    "video": "media/cook-onion_soup.mp4",
+    "poster": "media/cook-onion_soup.jpg",
+    "duration": 55.2,
+    "actions": [
+      {
+        "text": "go to the onion source",
+        "start": 0.4,
+        "end": 2.0,
+        "tick": 4,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 2.4,
+        "end": 2.8000000000000003,
+        "tick": 6,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 3.2,
+        "end": 5.6000000000000005,
+        "tick": 13,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 6.000000000000001,
+        "end": 6.4,
+        "tick": 15,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 6.800000000000001,
+        "end": 8.4,
+        "tick": 20,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 8.8,
+        "end": 9.200000000000001,
+        "tick": 22,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty pot",
+        "start": 9.600000000000001,
+        "end": 12.4,
+        "tick": 30,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 12.8,
+        "end": 13.200000000000001,
+        "tick": 32,
+        "status": "done"
+      },
+      {
+        "text": "go to the onion source",
+        "start": 13.600000000000001,
+        "end": 15.200000000000001,
+        "tick": 37,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 15.600000000000001,
+        "end": 16.0,
+        "tick": 39,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 16.4,
+        "end": 20.4,
+        "tick": 50,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 20.8,
+        "end": 21.2,
+        "tick": 52,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 21.6,
+        "end": 23.2,
+        "tick": 57,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 23.6,
+        "end": 24.0,
+        "tick": 59,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the onion",
+        "start": 24.4,
+        "end": 27.2,
+        "tick": 67,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 27.6,
+        "end": 28.0,
+        "tick": 69,
+        "status": "done"
+      },
+      {
+        "text": "go to the onion source",
+        "start": 28.4,
+        "end": 30.0,
+        "tick": 74,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 30.4,
+        "end": 30.8,
+        "tick": 76,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 31.2,
+        "end": 35.2,
+        "tick": 87,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 35.6,
+        "end": 36.0,
+        "tick": 89,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 36.4,
+        "end": 38.0,
+        "tick": 94,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 38.4,
+        "end": 38.800000000000004,
+        "tick": 96,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the onion",
+        "start": 39.2,
+        "end": 42.0,
+        "tick": 104,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 42.4,
+        "end": 42.800000000000004,
+        "tick": 106,
+        "status": "done"
+      },
+      {
+        "text": "turn on",
+        "start": 43.2,
+        "end": 43.2,
+        "tick": 107,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 43.6,
+        "end": 44.0,
+        "tick": 109,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 44.4,
+        "end": 44.800000000000004,
+        "tick": 111,
+        "status": "done"
+      },
+      {
+        "text": "go to the pot with the onion",
+        "start": 45.2,
+        "end": 45.6,
+        "tick": 113,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 46.0,
+        "end": 51.2,
+        "tick": 127,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 51.6,
+        "end": 52.800000000000004,
+        "tick": 131,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 53.2,
+        "end": 53.6,
+        "tick": 133,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:onion_soup",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-onion_soup-start.jpg"
+  },
+  {
+    "id": "cook-greek_salad",
+    "engine": "cook",
+    "title": "Prepare a Greek salad",
+    "description": "Chop lettuce and tomato, combine them with cheese, and serve.",
+    "video": "media/cook-greek_salad.mp4",
+    "poster": "media/cook-greek_salad.jpg",
+    "duration": 39.6,
+    "actions": [
+      {
+        "text": "go to the lettuce source",
+        "start": 0.4,
+        "end": 2.8000000000000003,
+        "tick": 6,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 3.2,
+        "end": 3.6,
+        "tick": 8,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 4.0,
+        "end": 4.800000000000001,
+        "tick": 11,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 5.200000000000001,
+        "end": 5.6000000000000005,
+        "tick": 13,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 6.000000000000001,
+        "end": 7.6000000000000005,
+        "tick": 18,
+        "status": "done"
+      },
+      {
+        "text": "go to the tomato source",
+        "start": 8.0,
+        "end": 8.8,
+        "tick": 21,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 9.200000000000001,
+        "end": 9.600000000000001,
+        "tick": 23,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 10.000000000000002,
+        "end": 15.600000000000001,
+        "tick": 38,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 16.0,
+        "end": 16.4,
+        "tick": 40,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 16.8,
+        "end": 18.4,
+        "tick": 45,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 18.8,
+        "end": 19.2,
+        "tick": 47,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 19.6,
+        "end": 20.0,
+        "tick": 49,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the lettuce",
+        "start": 20.4,
+        "end": 25.6,
+        "tick": 63,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 26.0,
+        "end": 26.4,
+        "tick": 65,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the tomato",
+        "start": 26.8,
+        "end": 31.6,
+        "tick": 78,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 32.0,
+        "end": 32.4,
+        "tick": 80,
+        "status": "done"
+      },
+      {
+        "text": "go to the cheese source",
+        "start": 32.8,
+        "end": 34.4,
+        "tick": 85,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 34.8,
+        "end": 35.2,
+        "tick": 87,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 35.6,
+        "end": 37.2,
+        "tick": 92,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 37.6,
+        "end": 38.0,
+        "tick": 94,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:greek_salad",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-greek_salad-start.jpg"
+  },
+  {
+    "id": "cook-caprese",
+    "engine": "cook",
+    "title": "Prepare a caprese salad",
+    "description": "Chop tomato, plate it with cheese on top, and serve.",
+    "video": "media/cook-caprese.mp4",
+    "poster": "media/cook-caprese.jpg",
+    "duration": 19.2,
+    "actions": [
+      {
+        "text": "go to the tomato source",
+        "start": 0.4,
+        "end": 2.0,
+        "tick": 4,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 2.4,
+        "end": 2.8000000000000003,
+        "tick": 6,
+        "status": "done"
+      },
+      {
+        "text": "go to the empty cutting board",
+        "start": 3.2,
+        "end": 4.4,
+        "tick": 10,
+        "status": "done"
+      },
+      {
+        "text": "put down",
+        "start": 4.800000000000001,
+        "end": 5.200000000000001,
+        "tick": 12,
+        "status": "done"
+      },
+      {
+        "text": "chop",
+        "start": 5.6000000000000005,
+        "end": 7.200000000000001,
+        "tick": 17,
+        "status": "done"
+      },
+      {
+        "text": "go to the plates",
+        "start": 7.6000000000000005,
+        "end": 8.8,
+        "tick": 21,
+        "status": "done"
+      },
+      {
+        "text": "pick up",
+        "start": 9.200000000000001,
+        "end": 9.600000000000001,
+        "tick": 23,
+        "status": "done"
+      },
+      {
+        "text": "go to the cutting board with the tomato",
+        "start": 10.000000000000002,
+        "end": 11.600000000000001,
+        "tick": 28,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 12.000000000000002,
+        "end": 12.4,
+        "tick": 30,
+        "status": "done"
+      },
+      {
+        "text": "go to the cheese source",
+        "start": 12.8,
+        "end": 13.200000000000001,
+        "tick": 32,
+        "status": "done"
+      },
+      {
+        "text": "scoop",
+        "start": 13.600000000000001,
+        "end": 14.000000000000002,
+        "tick": 34,
+        "status": "done"
+      },
+      {
+        "text": "go to the serving pass",
+        "start": 14.4,
+        "end": 16.8,
+        "tick": 41,
+        "status": "done"
+      },
+      {
+        "text": "serve",
+        "start": 17.2,
+        "end": 17.599999999999998,
+        "tick": 43,
+        "status": "done"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "served_correct_recipe": true,
+      "all_actions_successful": true
+    },
+    "source": "cook-bench-engine/cooksim/core/recipes.py:caprese",
+    "view": "Top-down and egocentric",
+    "initialPoster": "media/cook-caprese-start.jpg"
+  },
+  {
+    "id": "household-aftermeal_hard",
+    "engine": "vh",
+    "title": "Clear up after a meal",
+    "description": "Load the used plates and mug into the dishwasher, put the apple back in the fridge, and close both appliances.",
+    "instruction": "Clear up after the meal in the living room: the two plates on the coffee table and the mug on the side table go in the dishwasher, the apple on the side table goes back in the fridge, and close both.",
+    "video": "media/household-aftermeal_hard.mp4",
+    "poster": "media/household-aftermeal_hard.jpg",
+    "duration": 53.7,
+    "actions": [
+      {
+        "text": "go to the plate",
+        "start": 0.0,
+        "end": 3.0,
+        "tick": 6,
+        "command": "walk to the plate"
+      },
+      {
+        "text": "pick up the plate",
+        "start": 3.0,
+        "end": 4.5,
+        "tick": 9,
+        "command": "grab the plate"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 4.5,
+        "end": 9.5,
+        "tick": 19,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "open the dishwasher",
+        "start": 9.5,
+        "end": 11.5,
+        "tick": 23,
+        "command": "open the dishwasher"
+      },
+      {
+        "text": "put the plate in the dishwasher",
+        "start": 11.5,
+        "end": 13.0,
+        "tick": 26,
+        "command": "put the plate in the dishwasher"
+      },
+      {
+        "text": "go to the plate",
+        "start": 13.0,
+        "end": 18.0,
+        "tick": 36,
+        "command": "walk to the plate"
+      },
+      {
+        "text": "pick up the plate",
+        "start": 18.0,
+        "end": 19.5,
+        "tick": 39,
+        "command": "grab the plate"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 19.5,
+        "end": 24.5,
+        "tick": 49,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "put the plate in the dishwasher",
+        "start": 24.5,
+        "end": 26.0,
+        "tick": 52,
+        "command": "put the plate in the dishwasher"
+      },
+      {
+        "text": "go to the mug",
+        "start": 26.0,
+        "end": 31.5,
+        "tick": 63,
+        "command": "walk to the mug"
+      },
+      {
+        "text": "pick up the mug",
+        "start": 31.5,
+        "end": 33.0,
+        "tick": 66,
+        "command": "grab the mug"
+      },
+      {
+        "text": "go to the apple",
+        "start": 33.0,
+        "end": 33.5,
+        "tick": 67,
+        "command": "walk to the apple"
+      },
+      {
+        "text": "pick up the apple",
+        "start": 33.5,
+        "end": 35.0,
+        "tick": 70,
+        "command": "grab the apple"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 35.0,
+        "end": 39.5,
+        "tick": 79,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "put the mug in the dishwasher",
+        "start": 39.5,
+        "end": 41.0,
+        "tick": 82,
+        "command": "put the mug in the dishwasher"
+      },
+      {
+        "text": "close the dishwasher",
+        "start": 41.0,
+        "end": 44.0,
+        "tick": 88,
+        "command": "close the dishwasher"
+      },
+      {
+        "text": "go to the fridge",
+        "start": 44.0,
+        "end": 46.0,
+        "tick": 92,
+        "command": "walk to the fridge"
+      },
+      {
+        "text": "open the fridge",
+        "start": 46.0,
+        "end": 47.5,
+        "tick": 95,
+        "command": "open the fridge"
+      },
+      {
+        "text": "put the apple in the fridge",
+        "start": 47.5,
+        "end": 49.0,
+        "tick": 98,
+        "command": "put the apple in the fridge"
+      },
+      {
+        "text": "close the fridge",
+        "start": 49.0,
+        "end": 52.5,
+        "tick": 105,
+        "command": "close the fridge"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "both plates in the dishwasher": true,
+      "mug in the dishwasher": true,
+      "apple in the fridge": true,
+      "dishwasher closed": true,
+      "fridge closed": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:aftermeal_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-aftermeal_hard-start.jpg"
+  },
+  {
+    "id": "household-putback_hard",
+    "engine": "vh",
+    "title": "Return misplaced belongings",
+    "description": "Put the toilet paper on the bathroom counter, the book on the bedroom desk, and the pillow on the bed.",
+    "instruction": "In the living room, a toilet paper roll has been left on the desk, and a book and a pillow on the sofa; they belong in other rooms. Put the toilet paper roll on the bathroom counter, the book on the bedroom desk, and the pillow on the bed.",
+    "video": "media/household-putback_hard.mp4",
+    "poster": "media/household-putback_hard.jpg",
+    "duration": 37.2,
+    "actions": [
+      {
+        "text": "go to the toilet paper",
+        "start": 0.0,
+        "end": 2.0,
+        "tick": 4,
+        "command": "walk to the toiletpaper"
+      },
+      {
+        "text": "pick up the toilet paper",
+        "start": 2.0,
+        "end": 3.5,
+        "tick": 7,
+        "command": "grab the toiletpaper"
+      },
+      {
+        "text": "go to the bathroom counter",
+        "start": 3.5,
+        "end": 8.0,
+        "tick": 16,
+        "command": "walk to the bathroomcounter"
+      },
+      {
+        "text": "put the toilet paper on the bathroom counter",
+        "start": 8.0,
+        "end": 9.5,
+        "tick": 19,
+        "command": "put the toiletpaper on the bathroomcounter"
+      },
+      {
+        "text": "go to the book",
+        "start": 9.5,
+        "end": 14.5,
+        "tick": 29,
+        "command": "walk to the book"
+      },
+      {
+        "text": "pick up the book",
+        "start": 14.5,
+        "end": 16.0,
+        "tick": 32,
+        "command": "grab the book"
+      },
+      {
+        "text": "go to the desk",
+        "start": 16.0,
+        "end": 20.5,
+        "tick": 41,
+        "command": "walk to the desk"
+      },
+      {
+        "text": "put the book on the desk",
+        "start": 20.5,
+        "end": 22.0,
+        "tick": 44,
+        "command": "put the book on the desk"
+      },
+      {
+        "text": "go to the pillow",
+        "start": 22.0,
+        "end": 27.0,
+        "tick": 54,
+        "command": "walk to the pillow"
+      },
+      {
+        "text": "pick up the pillow",
+        "start": 27.0,
+        "end": 28.5,
+        "tick": 57,
+        "command": "grab the pillow"
+      },
+      {
+        "text": "go to the bed",
+        "start": 28.5,
+        "end": 34.5,
+        "tick": 69,
+        "command": "walk to the bed"
+      },
+      {
+        "text": "put the pillow on the bed",
+        "start": 34.5,
+        "end": 36.0,
+        "tick": 72,
+        "command": "put the pillow on the bed"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "toilet paper back on the bathroom counter": true,
+      "book back on the bedroom desk": true,
+      "pillow back on the bed": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:putback_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-putback_hard-start.jpg"
+  },
+  {
+    "id": "household-dishes_hard",
+    "engine": "vh",
+    "title": "Collect the dirty dishes",
+    "description": "Gather plates and glasses from around the apartment, load the dishwasher, and close it.",
+    "instruction": "Dirty dishes have been left around the flat: a plate and a glass on the kitchen table, a plate and a glass on the living-room coffee table, and a plate on the bed in the bedroom. Put all of them in the dishwasher and close it.",
+    "video": "media/household-dishes_hard.mp4",
+    "poster": "media/household-dishes_hard.jpg",
+    "duration": 47.7,
+    "actions": [
+      {
+        "text": "go to the plate",
+        "start": 0.0,
+        "end": 7.0,
+        "tick": 14,
+        "command": "walk to the plate"
+      },
+      {
+        "text": "pick up the plate",
+        "start": 7.0,
+        "end": 8.5,
+        "tick": 17,
+        "command": "grab the plate"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 8.5,
+        "end": 13.5,
+        "tick": 27,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "open the dishwasher",
+        "start": 13.5,
+        "end": 15.0,
+        "tick": 30,
+        "command": "open the dishwasher"
+      },
+      {
+        "text": "put the plate in the dishwasher",
+        "start": 15.0,
+        "end": 16.5,
+        "tick": 33,
+        "command": "put the plate in the dishwasher"
+      },
+      {
+        "text": "go to the plate",
+        "start": 16.5,
+        "end": 21.0,
+        "tick": 42,
+        "command": "walk to the plate"
+      },
+      {
+        "text": "pick up the plate",
+        "start": 21.0,
+        "end": 22.5,
+        "tick": 45,
+        "command": "grab the plate"
+      },
+      {
+        "text": "go to the waterglass",
+        "start": 22.5,
+        "end": 23.0,
+        "tick": 46,
+        "command": "walk to the waterglass"
+      },
+      {
+        "text": "pick up the waterglass",
+        "start": 23.0,
+        "end": 24.5,
+        "tick": 49,
+        "command": "grab the waterglass"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 24.5,
+        "end": 28.0,
+        "tick": 56,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "put the plate in the dishwasher",
+        "start": 28.0,
+        "end": 29.5,
+        "tick": 59,
+        "command": "put the plate in the dishwasher"
+      },
+      {
+        "text": "put the waterglass in the dishwasher",
+        "start": 29.5,
+        "end": 31.0,
+        "tick": 62,
+        "command": "put the waterglass in the dishwasher"
+      },
+      {
+        "text": "go to the plate",
+        "start": 31.0,
+        "end": 33.0,
+        "tick": 66,
+        "command": "walk to the plate"
+      },
+      {
+        "text": "pick up the plate",
+        "start": 33.0,
+        "end": 34.5,
+        "tick": 69,
+        "command": "grab the plate"
+      },
+      {
+        "text": "go to the waterglass",
+        "start": 34.5,
+        "end": 36.5,
+        "tick": 73,
+        "command": "walk to the waterglass"
+      },
+      {
+        "text": "pick up the waterglass",
+        "start": 36.5,
+        "end": 38.0,
+        "tick": 76,
+        "command": "grab the waterglass"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 38.0,
+        "end": 40.0,
+        "tick": 80,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "put the plate in the dishwasher",
+        "start": 40.0,
+        "end": 41.5,
+        "tick": 83,
+        "command": "put the plate in the dishwasher"
+      },
+      {
+        "text": "put the waterglass in the dishwasher",
+        "start": 41.5,
+        "end": 43.0,
+        "tick": 86,
+        "command": "put the waterglass in the dishwasher"
+      },
+      {
+        "text": "close the dishwasher",
+        "start": 43.0,
+        "end": 46.5,
+        "tick": 93,
+        "command": "close the dishwasher"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "all three plates in the dishwasher": true,
+      "both glasses in the dishwasher": true,
+      "dishwasher closed": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:dishes_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-dishes_hard-start.jpg"
+  },
+  {
+    "id": "household-groceries_hard",
+    "engine": "vh",
+    "title": "Put drinks back in the fridge",
+    "description": "Retrieve the milk from the bedroom and the juice from the living room, put both in the fridge, and close it.",
+    "instruction": "The milk was left on the bedroom nightstand and the juice on the living-room coffee table. Put them both in the fridge, then close it.",
+    "video": "media/household-groceries_hard.mp4",
+    "poster": "media/household-groceries_hard.jpg",
+    "duration": 32.2,
+    "actions": [
+      {
+        "text": "go to the milk",
+        "start": 0.0,
+        "end": 7.0,
+        "tick": 14,
+        "command": "walk to the milk"
+      },
+      {
+        "text": "pick up the milk",
+        "start": 7.0,
+        "end": 8.5,
+        "tick": 17,
+        "command": "grab the milk"
+      },
+      {
+        "text": "go to the fridge",
+        "start": 8.5,
+        "end": 14.0,
+        "tick": 28,
+        "command": "walk to the fridge"
+      },
+      {
+        "text": "open the fridge",
+        "start": 14.0,
+        "end": 16.0,
+        "tick": 32,
+        "command": "open the fridge"
+      },
+      {
+        "text": "put the milk in the fridge",
+        "start": 16.0,
+        "end": 17.5,
+        "tick": 35,
+        "command": "put the milk in the fridge"
+      },
+      {
+        "text": "go to the juice",
+        "start": 17.5,
+        "end": 21.5,
+        "tick": 43,
+        "command": "walk to the juice"
+      },
+      {
+        "text": "pick up the juice",
+        "start": 21.5,
+        "end": 23.0,
+        "tick": 46,
+        "command": "grab the juice"
+      },
+      {
+        "text": "go to the fridge",
+        "start": 23.0,
+        "end": 27.0,
+        "tick": 54,
+        "command": "walk to the fridge"
+      },
+      {
+        "text": "put the juice in the fridge",
+        "start": 27.0,
+        "end": 28.5,
+        "tick": 57,
+        "command": "put the juice in the fridge"
+      },
+      {
+        "text": "close the fridge",
+        "start": 28.5,
+        "end": 31.0,
+        "tick": 62,
+        "command": "close the fridge"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "milk in the fridge": true,
+      "juice in the fridge": true,
+      "fridge closed": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:groceries_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-groceries_hard-start.jpg"
+  },
+  {
+    "id": "household-shutdown_hard",
+    "engine": "vh",
+    "title": "Switch everything off",
+    "description": "Switch off the table lamps, TV, and computer, and close the fridge.",
+    "instruction": "Everything has been left on. Switch off all the table lamps, the TV and the computer, and close the fridge.",
+    "video": "media/household-shutdown_hard.mp4",
+    "poster": "media/household-shutdown_hard.jpg",
+    "duration": 27.2,
+    "actions": [
+      {
+        "text": "go to the fridge",
+        "start": 0.0,
+        "end": 3.0,
+        "tick": 6,
+        "command": "walk to the fridge"
+      },
+      {
+        "text": "close the fridge",
+        "start": 3.0,
+        "end": 6.5,
+        "tick": 13,
+        "command": "close the fridge"
+      },
+      {
+        "text": "go to the TV",
+        "start": 6.5,
+        "end": 10.5,
+        "tick": 21,
+        "command": "walk to the tv"
+      },
+      {
+        "text": "switch off the TV",
+        "start": 10.5,
+        "end": 13.0,
+        "tick": 26,
+        "command": "switch off the tv"
+      },
+      {
+        "text": "go to the computer",
+        "start": 13.0,
+        "end": 15.0,
+        "tick": 30,
+        "command": "walk to the computer"
+      },
+      {
+        "text": "switch off the computer",
+        "start": 15.0,
+        "end": 17.0,
+        "tick": 34,
+        "command": "switch off the computer"
+      },
+      {
+        "text": "go to the table lamp",
+        "start": 17.0,
+        "end": 19.0,
+        "tick": 38,
+        "command": "walk to the tablelamp"
+      },
+      {
+        "text": "switch off the table lamp",
+        "start": 19.0,
+        "end": 20.5,
+        "tick": 41,
+        "command": "switch off the tablelamp"
+      },
+      {
+        "text": "go to the table lamp",
+        "start": 20.5,
+        "end": 24.0,
+        "tick": 48,
+        "command": "walk to the tablelamp"
+      },
+      {
+        "text": "switch off the table lamp",
+        "start": 24.0,
+        "end": 26.0,
+        "tick": 52,
+        "command": "switch off the tablelamp"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "both lamps off": true,
+      "TV off": true,
+      "computer off": true,
+      "fridge closed": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:shutdown_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-shutdown_hard-start.jpg"
+  },
+  {
+    "id": "household-mugs_hard",
+    "engine": "vh",
+    "title": "Gather scattered mugs",
+    "description": "Collect the mugs from the bathroom, living room, and bedroom, and place them on the kitchen table.",
+    "instruction": "Three mugs have been left lying around the flat \u2014 one in the bathroom, one in the living room and one on the bedroom nightstand. Collect all three and put them on the kitchen table.",
+    "video": "media/household-mugs_hard.mp4",
+    "poster": "media/household-mugs_hard.jpg",
+    "duration": 36.2,
+    "actions": [
+      {
+        "text": "go to the mug",
+        "start": 0.0,
+        "end": 4.5,
+        "tick": 9,
+        "command": "walk to the mug"
+      },
+      {
+        "text": "pick up the mug",
+        "start": 4.5,
+        "end": 6.0,
+        "tick": 12,
+        "command": "grab the mug"
+      },
+      {
+        "text": "go to the kitchen table",
+        "start": 6.0,
+        "end": 10.5,
+        "tick": 21,
+        "command": "walk to the kitchentable"
+      },
+      {
+        "text": "put the mug on the kitchen table",
+        "start": 10.5,
+        "end": 12.0,
+        "tick": 24,
+        "command": "put the mug on the kitchentable"
+      },
+      {
+        "text": "go to the mug",
+        "start": 12.0,
+        "end": 17.0,
+        "tick": 34,
+        "command": "walk to the mug"
+      },
+      {
+        "text": "pick up the mug",
+        "start": 17.0,
+        "end": 18.5,
+        "tick": 37,
+        "command": "grab the mug"
+      },
+      {
+        "text": "go to the kitchen table",
+        "start": 18.5,
+        "end": 23.5,
+        "tick": 47,
+        "command": "walk to the kitchentable"
+      },
+      {
+        "text": "put the mug on the kitchen table",
+        "start": 23.5,
+        "end": 25.0,
+        "tick": 50,
+        "command": "put the mug on the kitchentable"
+      },
+      {
+        "text": "go to the mug",
+        "start": 25.0,
+        "end": 28.5,
+        "tick": 57,
+        "command": "walk to the mug"
+      },
+      {
+        "text": "pick up the mug",
+        "start": 28.5,
+        "end": 30.0,
+        "tick": 60,
+        "command": "grab the mug"
+      },
+      {
+        "text": "go to the kitchen table",
+        "start": 30.0,
+        "end": 33.5,
+        "tick": 67,
+        "command": "walk to the kitchentable"
+      },
+      {
+        "text": "put the mug on the kitchen table",
+        "start": 33.5,
+        "end": 35.0,
+        "tick": 70,
+        "command": "put the mug on the kitchentable"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "all three mugs on the kitchen table": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:mugs_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-mugs_hard-start.jpg"
+  },
+  {
+    "id": "household-guest_hard",
+    "engine": "vh",
+    "title": "Prepare for a guest",
+    "description": "Put away the living-room dishes, return the pillow to the bed, and switch off the TV.",
+    "instruction": "A guest is coming and the living room was left as it was. Put the plate on the coffee table and the mug on the desk into the dishwasher, put the pillow from the sofa back on the bed, and switch the TV off.",
+    "video": "media/household-guest_hard.mp4",
+    "poster": "media/household-guest_hard.jpg",
+    "duration": 47.7,
+    "actions": [
+      {
+        "text": "go to the plate",
+        "start": 0.0,
+        "end": 5.5,
+        "tick": 11,
+        "command": "walk to the plate"
+      },
+      {
+        "text": "pick up the plate",
+        "start": 5.5,
+        "end": 7.0,
+        "tick": 14,
+        "command": "grab the plate"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 7.0,
+        "end": 10.0,
+        "tick": 20,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "open the dishwasher",
+        "start": 10.0,
+        "end": 11.5,
+        "tick": 23,
+        "command": "open the dishwasher"
+      },
+      {
+        "text": "put the plate in the dishwasher",
+        "start": 11.5,
+        "end": 13.0,
+        "tick": 26,
+        "command": "put the plate in the dishwasher"
+      },
+      {
+        "text": "go to the mug",
+        "start": 13.0,
+        "end": 17.0,
+        "tick": 34,
+        "command": "walk to the mug"
+      },
+      {
+        "text": "pick up the mug",
+        "start": 17.0,
+        "end": 18.5,
+        "tick": 37,
+        "command": "grab the mug"
+      },
+      {
+        "text": "go to the dishwasher",
+        "start": 18.5,
+        "end": 22.0,
+        "tick": 44,
+        "command": "walk to the dishwasher"
+      },
+      {
+        "text": "put the mug in the dishwasher",
+        "start": 22.0,
+        "end": 23.5,
+        "tick": 47,
+        "command": "put the mug in the dishwasher"
+      },
+      {
+        "text": "close the dishwasher",
+        "start": 23.5,
+        "end": 26.0,
+        "tick": 52,
+        "command": "close the dishwasher"
+      },
+      {
+        "text": "go to the pillow",
+        "start": 26.0,
+        "end": 29.5,
+        "tick": 59,
+        "command": "walk to the pillow"
+      },
+      {
+        "text": "pick up the pillow",
+        "start": 29.5,
+        "end": 31.0,
+        "tick": 62,
+        "command": "grab the pillow"
+      },
+      {
+        "text": "go to the bed",
+        "start": 31.0,
+        "end": 38.0,
+        "tick": 76,
+        "command": "walk to the bed"
+      },
+      {
+        "text": "put the pillow on the bed",
+        "start": 38.0,
+        "end": 39.5,
+        "tick": 79,
+        "command": "put the pillow on the bed"
+      },
+      {
+        "text": "go to the TV",
+        "start": 39.5,
+        "end": 44.5,
+        "tick": 89,
+        "command": "walk to the tv"
+      },
+      {
+        "text": "switch off the TV",
+        "start": 44.5,
+        "end": 46.5,
+        "tick": 93,
+        "command": "switch off the tv"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "plate in the dishwasher": true,
+      "mug in the dishwasher": true,
+      "pillow back on the bed": true,
+      "TV off": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:guest_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-guest_hard-start.jpg"
+  },
+  {
+    "id": "household-tidybedroom_hard",
+    "engine": "vh",
+    "title": "Tidy the bedroom",
+    "description": "Return the book to the desk, turn off the lamp, close the cabinet, and take the mug to the kitchen table.",
+    "instruction": "Tidy up the bedroom: put the book that is lying on the bed back on the desk, turn off the lamp that was left on, close the cabinet, and take the mug from the nightstand to the kitchen table.",
+    "video": "media/household-tidybedroom_hard.mp4",
+    "poster": "media/household-tidybedroom_hard.jpg",
+    "duration": 28.2,
+    "actions": [
+      {
+        "text": "go to the book",
+        "start": 0.0,
+        "end": 4.0,
+        "tick": 8,
+        "command": "walk to the book"
+      },
+      {
+        "text": "pick up the book",
+        "start": 4.0,
+        "end": 5.5,
+        "tick": 11,
+        "command": "grab the book"
+      },
+      {
+        "text": "go to the desk",
+        "start": 5.5,
+        "end": 8.0,
+        "tick": 16,
+        "command": "walk to the desk"
+      },
+      {
+        "text": "put the book on the desk",
+        "start": 8.0,
+        "end": 9.5,
+        "tick": 19,
+        "command": "put the book on the desk"
+      },
+      {
+        "text": "go to the cabinet",
+        "start": 9.5,
+        "end": 11.0,
+        "tick": 22,
+        "command": "walk to the cabinet"
+      },
+      {
+        "text": "close the cabinet",
+        "start": 11.0,
+        "end": 14.0,
+        "tick": 28,
+        "command": "close the cabinet"
+      },
+      {
+        "text": "go to the table lamp",
+        "start": 14.0,
+        "end": 17.0,
+        "tick": 34,
+        "command": "walk to the tablelamp"
+      },
+      {
+        "text": "switch off the table lamp",
+        "start": 17.0,
+        "end": 18.5,
+        "tick": 37,
+        "command": "switch off the tablelamp"
+      },
+      {
+        "text": "go to the mug",
+        "start": 18.5,
+        "end": 21.0,
+        "tick": 42,
+        "command": "walk to the mug"
+      },
+      {
+        "text": "pick up the mug",
+        "start": 21.0,
+        "end": 22.5,
+        "tick": 45,
+        "command": "grab the mug"
+      },
+      {
+        "text": "go to the kitchen table",
+        "start": 22.5,
+        "end": 25.5,
+        "tick": 51,
+        "command": "walk to the kitchentable"
+      },
+      {
+        "text": "put the mug on the kitchen table",
+        "start": 25.5,
+        "end": 27.0,
+        "tick": 54,
+        "command": "put the mug on the kitchentable"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "book back on the desk": true,
+      "cabinet closed": true,
+      "lamp off": true,
+      "mug on the kitchen table": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:tidybedroom_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-tidybedroom_hard-start.jpg"
+  },
+  {
+    "id": "household-drink_hard",
+    "engine": "vh",
+    "title": "Get a drink",
+    "description": "Find a carton of juice, pick it up, and drink it.",
+    "instruction": "Get a juice and drink it.",
+    "video": "media/household-drink_hard.mp4",
+    "poster": "media/household-drink_hard.jpg",
+    "duration": 9.7,
+    "actions": [
+      {
+        "text": "go to the juice",
+        "start": 0.0,
+        "end": 4.0,
+        "tick": 8,
+        "command": "walk to the juice"
+      },
+      {
+        "text": "pick up the juice",
+        "start": 4.0,
+        "end": 5.5,
+        "tick": 11,
+        "command": "grab the juice"
+      },
+      {
+        "text": "drink the juice",
+        "start": 5.5,
+        "end": 8.5,
+        "tick": 17,
+        "command": "drink the juice"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "got juice": true,
+      "drank it": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:drink_hard",
+    "view": "Third-person",
+    "initialPoster": "media/household-drink_hard-start.jpg"
+  },
+  {
+    "id": "household-relocate_hard",
+    "engine": "vh",
+    "title": "Bring a book to the living room",
+    "description": "Retrieve a book from the bedroom and place it on the living-room coffee table.",
+    "instruction": "Take a book and put it on the coffee table in the living room.",
+    "video": "media/household-relocate_hard.mp4",
+    "poster": "media/household-relocate_hard.jpg",
+    "duration": 12.2,
+    "actions": [
+      {
+        "text": "go to the book",
+        "start": 0.0,
+        "end": 2.0,
+        "tick": 4,
+        "command": "walk to the book"
+      },
+      {
+        "text": "pick up the book",
+        "start": 2.0,
+        "end": 3.5,
+        "tick": 7,
+        "command": "grab the book"
+      },
+      {
+        "text": "go to the kitchen table",
+        "start": 3.5,
+        "end": 6.5,
+        "tick": 13,
+        "command": "walk to the kitchentable"
+      },
+      {
+        "text": "go to the coffee table",
+        "start": 6.5,
+        "end": 9.5,
+        "tick": 19,
+        "command": "walk to the coffeetable"
+      },
+      {
+        "text": "put the book on the coffee table",
+        "start": 9.5,
+        "end": 11.0,
+        "tick": 22,
+        "command": "put the book on the coffeetable"
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "grabbed book": true,
+      "put book on coffee table": true
+    },
+    "source": "vh-streaming-engine/tools/episodes.py:relocate_hard",
+    "view": "Egocentric",
+    "initialPoster": "media/household-relocate_hard-start.jpg"
+  },
+  {
+    "id": "screen-app_privacy_quarantine",
+    "engine": "screen",
+    "title": "Protect an app\u2019s privacy",
+    "description": "Stop TripSnap from accessing location, tracking across apps, or refreshing in the background, without changing other apps.",
+    "instruction": "TripSnap is creeping me out. It must never be able to find out where I am, it must not follow what I do across other companies' apps and websites, and it must not keep loading new content in the background while I'm not using it. Only TripSnap: every other app should still be able to ask me whether it may follow me, use my location, and load content in the background exactly as it can now.",
+    "video": "media/screen-app_privacy_quarantine.mp4",
+    "poster": "media/screen-app_privacy_quarantine.jpg",
+    "duration": 25.9,
+    "actions": [
+      {
+        "text": "swipe up",
+        "start": 1.8,
+        "tick": 1,
+        "end": 3.05
+      },
+      {
+        "text": "swipe up",
+        "start": 3.05,
+        "tick": 2,
+        "end": 4.3
+      },
+      {
+        "text": "tap Privacy & Security",
+        "start": 4.3,
+        "tick": 3,
+        "end": 5.45
+      },
+      {
+        "text": "tap Location Services",
+        "start": 5.45,
+        "tick": 4,
+        "end": 6.6
+      },
+      {
+        "text": "tap TripSnap",
+        "start": 6.6,
+        "tick": 5,
+        "end": 7.75
+      },
+      {
+        "text": "tap Never",
+        "start": 7.75,
+        "tick": 6,
+        "end": 8.7
+      },
+      {
+        "text": "press back",
+        "start": 8.7,
+        "tick": 7,
+        "end": 9.85
+      },
+      {
+        "text": "press back",
+        "start": 9.85,
+        "tick": 8,
+        "end": 11.0
+      },
+      {
+        "text": "tap Tracking",
+        "start": 11.0,
+        "tick": 9,
+        "end": 12.15
+      },
+      {
+        "text": "tap TripSnap",
+        "start": 12.15,
+        "tick": 10,
+        "end": 13.1
+      },
+      {
+        "text": "press back",
+        "start": 13.1,
+        "tick": 11,
+        "end": 14.25
+      },
+      {
+        "text": "press back",
+        "start": 14.25,
+        "tick": 12,
+        "end": 15.4
+      },
+      {
+        "text": "swipe down",
+        "start": 15.4,
+        "tick": 13,
+        "end": 16.65
+      },
+      {
+        "text": "swipe down",
+        "start": 16.65,
+        "tick": 14,
+        "end": 17.9
+      },
+      {
+        "text": "tap General",
+        "start": 17.9,
+        "tick": 15,
+        "end": 19.05
+      },
+      {
+        "text": "swipe up",
+        "start": 19.05,
+        "tick": 16,
+        "end": 20.3
+      },
+      {
+        "text": "tap Background App Refresh",
+        "start": 20.3,
+        "tick": 17,
+        "end": 21.45
+      },
+      {
+        "text": "tap TripSnap",
+        "start": 21.45,
+        "tick": 18,
+        "end": 22.4
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 18,
+      "final_tick_replay": 18,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:app_privacy_quarantine",
+    "initialPoster": "media/screen-app_privacy_quarantine-start.jpg"
+  },
+  {
+    "id": "screen-parent_phone_readability",
+    "engine": "screen",
+    "title": "Make a phone easier to read",
+    "description": "Enlarge and bold text, clarify buttons, increase contrast, and reduce motion without enlarging the whole interface.",
+    "instruction": "My dad finds his phone hard to read. Make the letters themselves bigger and thicker everywhere, put an outline on buttons so he can tell what he can tap, make colors stand out more sharply from each other, and stop the animations that slide and zoom things around the screen. Only the letters should grow: don't enlarge the icons and buttons, and don't magnify the whole screen.",
+    "video": "media/screen-parent_phone_readability.mp4",
+    "poster": "media/screen-parent_phone_readability.jpg",
+    "duration": 17.15,
+    "actions": [
+      {
+        "text": "tap Accessibility",
+        "start": 1.8,
+        "tick": 1,
+        "end": 2.95
+      },
+      {
+        "text": "tap Display & Text Size",
+        "start": 2.95,
+        "tick": 2,
+        "end": 4.1
+      },
+      {
+        "text": "tap Bold Text",
+        "start": 4.1,
+        "tick": 3,
+        "end": 5.05
+      },
+      {
+        "text": "tap Larger Text",
+        "start": 5.05,
+        "tick": 4,
+        "end": 6.2
+      },
+      {
+        "text": "swipe right on Text Size",
+        "start": 6.2,
+        "tick": 5,
+        "end": 7.35
+      },
+      {
+        "text": "press back",
+        "start": 7.35,
+        "tick": 6,
+        "end": 8.5
+      },
+      {
+        "text": "tap Button Shapes",
+        "start": 8.5,
+        "tick": 7,
+        "end": 9.45
+      },
+      {
+        "text": "tap Increase Contrast",
+        "start": 9.45,
+        "tick": 8,
+        "end": 10.4
+      },
+      {
+        "text": "press back",
+        "start": 10.4,
+        "tick": 9,
+        "end": 11.55
+      },
+      {
+        "text": "tap Motion",
+        "start": 11.55,
+        "tick": 10,
+        "end": 12.7
+      },
+      {
+        "text": "tap Reduce Motion",
+        "start": 12.7,
+        "tick": 11,
+        "end": 13.65
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 11,
+      "final_tick_replay": 11,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:parent_phone_readability",
+    "initialPoster": "media/screen-parent_phone_readability-start.jpg"
+  },
+  {
+    "id": "screen-hearing_setup",
+    "engine": "screen",
+    "title": "Set up hearing assistance",
+    "description": "Enable flashing alerts, mono audio, and captions for a user who is hard of hearing.",
+    "instruction": "My grandmother is hard of hearing and only hears with one ear. Make the camera light blink when a call or message comes in (she never silences her phone), make everything she plays come through fully in one ear whether it's the speaker or any headphones, and show the words that are spoken, plus other sounds, as text on videos that include it. Don't turn on the feature that reads out everything on the screen as she touches it; that confuses her.",
+    "video": "media/screen-hearing_setup.mp4",
+    "poster": "media/screen-hearing_setup.jpg",
+    "duration": 16.5,
+    "actions": [
+      {
+        "text": "tap Accessibility",
+        "start": 1.8,
+        "tick": 1,
+        "end": 2.95
+      },
+      {
+        "text": "swipe up",
+        "start": 2.95,
+        "tick": 2,
+        "end": 4.2
+      },
+      {
+        "text": "swipe up",
+        "start": 4.2,
+        "tick": 3,
+        "end": 5.45
+      },
+      {
+        "text": "swipe up",
+        "start": 5.45,
+        "tick": 4,
+        "end": 6.7
+      },
+      {
+        "text": "tap Audio & Visual",
+        "start": 6.7,
+        "tick": 5,
+        "end": 7.85
+      },
+      {
+        "text": "tap LED Flash for Alerts",
+        "start": 7.85,
+        "tick": 6,
+        "end": 8.8
+      },
+      {
+        "text": "tap Mono Audio",
+        "start": 8.8,
+        "tick": 7,
+        "end": 9.75
+      },
+      {
+        "text": "press back",
+        "start": 9.75,
+        "tick": 8,
+        "end": 10.9
+      },
+      {
+        "text": "tap Subtitles & Captioning",
+        "start": 10.9,
+        "tick": 9,
+        "end": 12.05
+      },
+      {
+        "text": "tap Closed Captions + SDH",
+        "start": 12.05,
+        "tick": 10,
+        "end": 13.0
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 10,
+      "final_tick_replay": 10,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:hearing_setup",
+    "initialPoster": "media/screen-hearing_setup-start.jpg"
+  },
+  {
+    "id": "screen-lock_screen_lockdown",
+    "engine": "screen",
+    "title": "Secure the lock screen",
+    "description": "Require unlocking before accessing quick settings, widgets and search, payment cards, or missed-call return.",
+    "instruction": "If a stranger picks up my phone while it's locked, they shouldn't be able to do any of these without unlocking it first: open the quick-settings panel with Wi-Fi and the flashlight, swipe right to the page of widgets and search, pull up my payment cards, or call back people whose calls I missed.",
+    "video": "media/screen-lock_screen_lockdown.mp4",
+    "poster": "media/screen-lock_screen_lockdown.jpg",
+    "duration": 13.9,
+    "actions": [
+      {
+        "text": "swipe up",
+        "start": 1.8,
+        "tick": 1,
+        "end": 3.05
+      },
+      {
+        "text": "swipe up",
+        "start": 3.05,
+        "tick": 2,
+        "end": 4.3
+      },
+      {
+        "text": "tap Face ID & Passcode",
+        "start": 4.3,
+        "tick": 3,
+        "end": 5.45
+      },
+      {
+        "text": "tap Allow Access When Locked",
+        "start": 5.45,
+        "tick": 4,
+        "end": 6.6
+      },
+      {
+        "text": "tap Control Center",
+        "start": 6.6,
+        "tick": 5,
+        "end": 7.55
+      },
+      {
+        "text": "tap Today View and Search",
+        "start": 7.55,
+        "tick": 6,
+        "end": 8.5
+      },
+      {
+        "text": "tap Wallet",
+        "start": 8.5,
+        "tick": 7,
+        "end": 9.45
+      },
+      {
+        "text": "tap Return Missed Calls",
+        "start": 9.45,
+        "tick": 8,
+        "end": 10.4
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 8,
+      "final_tick_replay": 8,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:lock_screen_lockdown",
+    "initialPoster": "media/screen-lock_screen_lockdown-start.jpg"
+  },
+  {
+    "id": "screen-hotspot_2ghz",
+    "engine": "screen",
+    "title": "Connect an older laptop",
+    "description": "Enable a compatible Personal Hotspot for a 2.4 GHz laptop and set its password to trailmix88.",
+    "instruction": "My old ThinkPad only sees 2.4 GHz networks. Set up my Personal Hotspot with password 'trailmix88' so it can connect \u2014 I need it for a presentation in five minutes.",
+    "video": "media/screen-hotspot_2ghz.mp4",
+    "poster": "media/screen-hotspot_2ghz.jpg",
+    "duration": 13.9,
+    "actions": [
+      {
+        "text": "tap Personal Hotspot",
+        "start": 1.8,
+        "tick": 1,
+        "end": 2.95
+      },
+      {
+        "text": "tap Wi-Fi Password",
+        "start": 2.95,
+        "tick": 2,
+        "end": 4.1
+      },
+      {
+        "text": "tap the Password field",
+        "start": 4.1,
+        "tick": 3,
+        "end": 5.05
+      },
+      {
+        "text": "type \"trailmix88\"",
+        "start": 5.05,
+        "tick": 4,
+        "end": 7.35
+      },
+      {
+        "text": "tap Done",
+        "start": 7.35,
+        "tick": 5,
+        "end": 8.5
+      },
+      {
+        "text": "tap Maximize Compatibility",
+        "start": 8.5,
+        "tick": 6,
+        "end": 9.45
+      },
+      {
+        "text": "tap Allow Others to Join",
+        "start": 9.45,
+        "tick": 7,
+        "end": 10.4
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 7,
+      "final_tick_replay": 7,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:hotspot_2ghz",
+    "initialPoster": "media/screen-hotspot_2ghz-start.jpg"
+  },
+  {
+    "id": "screen-limit_adult_web",
+    "engine": "screen",
+    "title": "Prepare a phone for a child",
+    "description": "Limit adult websites in Safari while leaving the phone\u2019s other settings unchanged.",
+    "instruction": "My 9-year-old nephew is borrowing my phone this weekend \u2014 set the web filter to limit adult websites in Safari. Leave everything else alone.",
+    "video": "media/screen-limit_adult_web.mp4",
+    "poster": "media/screen-limit_adult_web.jpg",
+    "duration": 14.3,
+    "actions": [
+      {
+        "text": "swipe up",
+        "start": 1.8,
+        "tick": 1,
+        "end": 3.05
+      },
+      {
+        "text": "swipe up",
+        "start": 3.05,
+        "tick": 2,
+        "end": 4.3
+      },
+      {
+        "text": "tap Screen Time",
+        "start": 4.3,
+        "tick": 3,
+        "end": 5.45
+      },
+      {
+        "text": "tap Content & Privacy Restrictions",
+        "start": 5.45,
+        "tick": 4,
+        "end": 6.6
+      },
+      {
+        "text": "tap Content & Privacy Restrictions",
+        "start": 6.6,
+        "tick": 5,
+        "end": 7.55
+      },
+      {
+        "text": "tap App Store, Media, Web, & Games",
+        "start": 7.55,
+        "tick": 6,
+        "end": 8.7
+      },
+      {
+        "text": "tap Web Content",
+        "start": 8.7,
+        "tick": 7,
+        "end": 9.85
+      },
+      {
+        "text": "tap Limit Adult Websites",
+        "start": 9.85,
+        "tick": 8,
+        "end": 10.8
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 8,
+      "final_tick_replay": 8,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:limit_adult_web",
+    "initialPoster": "media/screen-limit_adult_web-start.jpg"
+  },
+  {
+    "id": "screen-offload_unused",
+    "engine": "screen",
+    "title": "Free storage without losing data",
+    "description": "Enable Offload Unused Apps to free storage while keeping app documents and data.",
+    "instruction": "My storage is full and the camera won't shoot. Turn on the Offload Unused Apps recommendation \u2014 it frees space but keeps all my documents and data.",
+    "video": "media/screen-offload_unused.mp4",
+    "poster": "media/screen-offload_unused.jpg",
+    "duration": 9.7,
+    "actions": [
+      {
+        "text": "tap General",
+        "start": 1.8,
+        "tick": 1,
+        "end": 2.95
+      },
+      {
+        "text": "tap iPhone Storage",
+        "start": 2.95,
+        "tick": 2,
+        "end": 4.1
+      },
+      {
+        "text": "tap Offload Unused Apps",
+        "start": 4.1,
+        "tick": 3,
+        "end": 5.15
+      },
+      {
+        "text": "tap Enable",
+        "start": 5.15,
+        "tick": 4,
+        "end": 6.2
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 4,
+      "final_tick_replay": 4,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:offload_unused",
+    "initialPoster": "media/screen-offload_unused-start.jpg"
+  },
+  {
+    "id": "screen-adp_encrypt_icloud",
+    "engine": "screen",
+    "title": "Protect cloud data",
+    "description": "Enable Advanced Data Protection for iCloud while keeping web access available.",
+    "instruction": "I just read about a cloud data breach \u2014 turn on Advanced Data Protection so Apple can't read my iCloud data. Don't turn off web access to iCloud though, I still use icloud.com at work.",
+    "video": "media/screen-adp_encrypt_icloud.mp4",
+    "poster": "media/screen-adp_encrypt_icloud.jpg",
+    "duration": 12.1,
+    "actions": [
+      {
+        "text": "tap Chris Morgan",
+        "start": 1.8,
+        "tick": 1,
+        "end": 2.95
+      },
+      {
+        "text": "tap iCloud",
+        "start": 2.95,
+        "tick": 2,
+        "end": 4.1
+      },
+      {
+        "text": "swipe up",
+        "start": 4.1,
+        "tick": 3,
+        "end": 5.35
+      },
+      {
+        "text": "tap Advanced Data Protection",
+        "start": 5.35,
+        "tick": 4,
+        "end": 6.5
+      },
+      {
+        "text": "tap Turn On Advanced Data Protection",
+        "start": 6.5,
+        "tick": 5,
+        "end": 7.55
+      },
+      {
+        "text": "tap Turn On",
+        "start": 7.55,
+        "tick": 6,
+        "end": 8.6
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 6,
+      "final_tick_replay": 6,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:adp_encrypt_icloud",
+    "initialPoster": "media/screen-adp_encrypt_icloud-start.jpg"
+  },
+  {
+    "id": "screen-stop_profiling",
+    "engine": "screen",
+    "title": "Reduce tracking and data sharing",
+    "description": "Disable cross-app tracking requests, device analytics, and Siri recordings while retaining iCloud analytics.",
+    "instruction": "I don't want to be profiled. No app should even be allowed to ask to follow me across other companies' apps and websites. Stop sending Apple data about how I use this phone, and stop Apple keeping recordings of what I say to Siri and dictate so it can improve them. But keep sending Apple the data about how I use iCloud; my work needs that.",
+    "video": "media/screen-stop_profiling.mp4",
+    "poster": "media/screen-stop_profiling.jpg",
+    "duration": 16.5,
+    "actions": [
+      {
+        "text": "swipe up",
+        "start": 1.8,
+        "tick": 1,
+        "end": 3.05
+      },
+      {
+        "text": "swipe up",
+        "start": 3.05,
+        "tick": 2,
+        "end": 4.3
+      },
+      {
+        "text": "tap Privacy & Security",
+        "start": 4.3,
+        "tick": 3,
+        "end": 5.45
+      },
+      {
+        "text": "tap Tracking",
+        "start": 5.45,
+        "tick": 4,
+        "end": 6.6
+      },
+      {
+        "text": "tap Allow Apps to Request to Track",
+        "start": 6.6,
+        "tick": 5,
+        "end": 7.55
+      },
+      {
+        "text": "press back",
+        "start": 7.55,
+        "tick": 6,
+        "end": 8.7
+      },
+      {
+        "text": "swipe up",
+        "start": 8.7,
+        "tick": 7,
+        "end": 9.95
+      },
+      {
+        "text": "tap Analytics & Improvements",
+        "start": 9.95,
+        "tick": 8,
+        "end": 11.1
+      },
+      {
+        "text": "tap Share iPhone Analytics",
+        "start": 11.1,
+        "tick": 9,
+        "end": 12.05
+      },
+      {
+        "text": "tap Improve Siri & Dictation",
+        "start": 12.05,
+        "tick": 10,
+        "end": 13.0
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 10,
+      "final_tick_replay": 10,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:stop_profiling",
+    "initialPoster": "media/screen-stop_profiling-start.jpg"
+  },
+  {
+    "id": "screen-keyboard_stop_correcting",
+    "engine": "screen",
+    "title": "Keep control of typed text",
+    "description": "Disable auto-correction, smart punctuation, and predictive suggestions while retaining spell checking and auto-capitalization.",
+    "instruction": "My phone keeps changing what I type. Stop it replacing my words with what it thinks I meant, stop it turning my straight quote marks and double hyphens into curly quotes and long dashes, and get rid of the row of suggested words above the keys. But I still want misspelled words underlined, and the first letter of every sentence capitalized for me.",
+    "video": "media/screen-keyboard_stop_correcting.mp4",
+    "poster": "media/screen-keyboard_stop_correcting.jpg",
+    "duration": 11.7,
+    "actions": [
+      {
+        "text": "tap General",
+        "start": 1.8,
+        "tick": 1,
+        "end": 2.95
+      },
+      {
+        "text": "swipe up",
+        "start": 2.95,
+        "tick": 2,
+        "end": 4.2
+      },
+      {
+        "text": "tap Keyboard",
+        "start": 4.2,
+        "tick": 3,
+        "end": 5.35
+      },
+      {
+        "text": "tap Auto-Correction",
+        "start": 5.35,
+        "tick": 4,
+        "end": 6.3
+      },
+      {
+        "text": "tap Smart Punctuation",
+        "start": 6.3,
+        "tick": 5,
+        "end": 7.25
+      },
+      {
+        "text": "tap Predictive",
+        "start": 7.25,
+        "tick": 6,
+        "end": 8.2
+      }
+    ],
+    "outcome": "completed",
+    "check": {
+      "mismatches": [],
+      "final_tick_logged": 6,
+      "final_tick_replay": 6,
+      "goal_logged": true,
+      "goal_replay": true,
+      "exact": true
+    },
+    "source": "screensim/screensim/tasks.py:keyboard_stop_correcting",
+    "initialPoster": "media/screen-keyboard_stop_correcting-start.jpg"
+  }
+]
