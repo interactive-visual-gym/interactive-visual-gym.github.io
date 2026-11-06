@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>Interactive Visual Gym — social preview source</title>
+<style>
+@font-face{font-family:Salesforce;src:url('fonts/SalesforceSans-Regular.woff2')}
+@font-face{font-family:Salesforce;src:url('fonts/SalesforceSans-Semibold.woff2');font-weight:600}
+@font-face{font-family:Avant;src:url('fonts/AvantGarde-Salesforce.woff2');font-weight:700}
+*{box-sizing:border-box}html,body{margin:0;width:1200px;height:630px;overflow:hidden}
+body{font-family:Salesforce,Arial,sans-serif;color:#032d60;background:radial-gradient(ellipse at 93% 3%,#c5e8ff,transparent 58%),linear-gradient(135deg,#f4faff,#e8f4ff)}
+main{padding:32px 48px;position:relative;height:630px}
+.brand{display:flex;align-items:center;gap:13px;height:43px;font-size:19px;font-weight:600;color:#365570}
+.brand img{width:62px;height:43px;object-fit:contain}
+h1{font:700 59px/1.12 Avant,Salesforce,sans-serif;letter-spacing:-1.8px;margin:22px 0 14px;color:#0176d3}
+.subtitle{font-size:27px;line-height:1.28;margin:0;max-width:1000px;color:#23496f}
+.scenes{display:grid;grid-template-columns:400px 400px 264px;gap:20px;margin-top:28px}
+.scene{height:322px;border:1px solid #c1d9ed;border-radius:16px;overflow:hidden;background:#fff;box-shadow:0 8px 20px #032d600d}
+.label{height:43px;display:flex;align-items:center;padding:0 18px;font-size:20px;font-weight:600;border-bottom:1px solid #d7e8f5}
+.viewport{height:279px;position:relative;overflow:hidden;background:#f2f7fc}
+.viewport>img{width:100%;height:100%;object-fit:cover;display:block}
+.cooking .viewport>img{position:absolute;width:200%;max-width:none;right:0;object-fit:cover}
+.phone .viewport>img{object-fit:contain;background:#f2f7fc}
+</style>
+</head>
+<body><main>
+<div class="brand"><img src="salesforce-logo.svg" alt="Salesforce"><span>Salesforce AI Research</span></div>
+<h1>Interactive Visual Gym</h1>
+<p class="subtitle">Evaluating visual interaction models<br>with simulated users in interactive worlds</p>
+<div class="scenes">
+ <div class="scene cooking"><div class="label">Cooking</div><div class="viewport"><img src="../tasks/media/cook-loaded_burrito-start.jpg" alt="Cooking simulator with ingredients and a plate"></div></div>
+ <div class="scene"><div class="label">Household activities</div><div class="viewport"><img src="../tasks/media/household-groceries_hard.jpg" alt="Putting groceries in the refrigerator"></div></div>
+ <div class="scene phone"><div class="label">Phone settings</div><div class="viewport"><img src="../demo-slides/media/screen.jpg" alt="Simulated phone settings with a touch gesture"></div></div>
+</div>
+</main></body></html>
