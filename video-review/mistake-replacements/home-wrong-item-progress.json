@@ -26,5 +26,6 @@
     "trigger": "about to: walk to the fridge",
     "injected_at": 2
   },
-  "edit": "First 11 seconds of option B. Speech synthesis is accelerated to preserve the complete exchange. The final video is unchanged."
+  "edit": "First 11 seconds of option B. Speech synthesis is accelerated to preserve the complete exchange. The final video is unchanged.",
+  "title": "The visual assistant must recognize and help the user recover from mistakes."
 }
