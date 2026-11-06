@@ -1,0 +1,30 @@
+{
+  "source_record": "vh-streaming-engine/tmp/bench_v2/gpt-realtime-2.1/gpt-realtime-2.1__cx_appliance_obj_stall__baseline.json",
+  "duration": 11,
+  "dialogue": [
+    {
+      "speaker": "assistant",
+      "text": "I think you grabbed the wrong item. The milk is the white bottle that's still in the fridge.",
+      "duration": 3.9546666666666668,
+      "start": 3.5999999999999996
+    },
+    {
+      "speaker": "user",
+      "text": "Oh, you're right, my bad. I'll swap them.",
+      "duration": 2.865083333333333,
+      "start": 7.704666666666666
+    }
+  ],
+  "task_subgoals": [
+    "Retrieve milk from the fridge",
+    "Put that milk in the microwave",
+    "Switch on the microwave"
+  ],
+  "completed_subgoals_in_excerpt": 0,
+  "scheduled_event": {
+    "type": "wrong_object",
+    "trigger": "about to: walk to the fridge",
+    "injected_at": 2
+  },
+  "edit": "First 11 seconds of option B. Speech synthesis is accelerated to preserve the complete exchange. The final video is unchanged."
+}
