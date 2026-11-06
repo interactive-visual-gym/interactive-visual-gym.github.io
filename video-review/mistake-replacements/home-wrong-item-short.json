@@ -1,0 +1,19 @@
+{
+  "source_record": "vh-streaming-engine/tmp/bench_v2/gpt-realtime-2.1/gpt-realtime-2.1__cx_appliance_obj_stall__baseline.json",
+  "duration": 11,
+  "dialogue": [
+    {
+      "speaker": "assistant",
+      "text": "I think you grabbed the wrong item. The milk is the white bottle that's still in the fridge.",
+      "duration": 3.9546666666666668,
+      "start": 3.5999999999999996
+    },
+    {
+      "speaker": "user",
+      "text": "Oh, you're right, my bad. I'll swap them.",
+      "duration": 2.865083333333333,
+      "start": 7.704666666666666
+    }
+  ],
+  "edit": "First 11 seconds of option B; synthesized dialogue accelerated 1.3x to retain the full exchange. The completed return of the juice is outside this shortened cut."
+}
