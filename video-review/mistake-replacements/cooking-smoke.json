@@ -1,0 +1,111 @@
+{
+  "source_record": "cook-bench-engine/tmp/formal_v5/frames/classic_expert/gemini-3.8-flash/b3_master_nops_hard_map_4.json",
+  "tick_window": [
+    199,
+    212
+  ],
+  "event_origin": "Naturally occurring error",
+  "dialogue": [
+    {
+      "speaker": "assistant",
+      "text": "The pot near the back counter is smoking!",
+      "start": 1.2000000000000002,
+      "duration": 2.592
+    },
+    {
+      "speaker": "user",
+      "text": "On it, grabbing the rice now.",
+      "start": 4.042,
+      "duration": 2.352
+    }
+  ],
+  "segments": [
+    {
+      "tick": 199,
+      "start": 0,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 200,
+      "start": 0.4,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 201,
+      "start": 0.8,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 202,
+      "start": 1.2000000000000002,
+      "duration": 3.4,
+      "frames": 68
+    },
+    {
+      "tick": 203,
+      "start": 4.6,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 204,
+      "start": 5.0,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 205,
+      "start": 5.4,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 206,
+      "start": 5.800000000000001,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 207,
+      "start": 6.200000000000001,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 208,
+      "start": 6.600000000000001,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 209,
+      "start": 7.000000000000002,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 210,
+      "start": 7.400000000000002,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 211,
+      "start": 7.8000000000000025,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 212,
+      "start": 8.200000000000003,
+      "duration": 1.4,
+      "frames": 28
+    }
+  ],
+  "duration": 9.600000000000003,
+  "audio": "Synthesized reading of recorded dialogue. Not original participant audio.",
+  "notes": "The clearest visual consequence, but this mistake arose during the rollout rather than from a scheduled event. Choose A or B if the narration must demonstrate controlled injection."
+}

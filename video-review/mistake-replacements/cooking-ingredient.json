@@ -1,0 +1,183 @@
+{
+  "source_record": "cook-bench-engine/tmp/formal_v7_lat2/frames/baseline/gemini-3.8-flash__r3/b3_expert_nops_medium_map_5.json",
+  "tick_window": [
+    10,
+    35
+  ],
+  "event_origin": "Scheduled error",
+  "dialogue": [
+    {
+      "speaker": "assistant",
+      "text": "We don't need lettuce for Steak Frites. Throw it in the trash.",
+      "start": 2.4,
+      "duration": 4.176
+    },
+    {
+      "speaker": "user",
+      "text": "Oh right, my bad, ditching this.",
+      "start": 6.8260000000000005,
+      "duration": 2.616
+    }
+  ],
+  "segments": [
+    {
+      "tick": 10,
+      "start": 0,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 11,
+      "start": 0.4,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 12,
+      "start": 0.8,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 13,
+      "start": 1.2000000000000002,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 14,
+      "start": 1.6,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 15,
+      "start": 2.0,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 16,
+      "start": 2.4,
+      "duration": 1.85,
+      "frames": 37
+    },
+    {
+      "tick": 17,
+      "start": 4.25,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 18,
+      "start": 4.65,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 19,
+      "start": 5.050000000000001,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 20,
+      "start": 5.450000000000001,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 21,
+      "start": 5.850000000000001,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 22,
+      "start": 6.250000000000002,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 23,
+      "start": 6.650000000000002,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 24,
+      "start": 7.0500000000000025,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 25,
+      "start": 7.450000000000003,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 26,
+      "start": 7.850000000000003,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 27,
+      "start": 8.250000000000004,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 28,
+      "start": 8.650000000000004,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 29,
+      "start": 9.050000000000004,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 30,
+      "start": 9.450000000000005,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 31,
+      "start": 9.850000000000005,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 32,
+      "start": 10.250000000000005,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 33,
+      "start": 10.650000000000006,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 34,
+      "start": 11.050000000000006,
+      "duration": 0.4,
+      "frames": 8
+    },
+    {
+      "tick": 35,
+      "start": 11.450000000000006,
+      "duration": 1.4,
+      "frames": 28
+    }
+  ],
+  "duration": 12.850000000000007,
+  "audio": "Synthesized reading of recorded dialogue. Not original participant audio.",
+  "notes": "The closest replacement for the phone scene: one obvious mistake, a short correction, and visible recovery."
+}
