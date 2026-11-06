@@ -23,4 +23,4 @@ Initial source: `hellomuffin/ive-benchmark`, `docs/redesign/`, commit `584ed5548
 The shared leaderboard data and favicon were copied alongside it; only deployment paths
 and indexing metadata changed.
 
-The current paper is served at [`paper/interactive-visual-gym.pdf`](paper/interactive-visual-gym.pdf). Update it from the compiled arXiv/Overleaf version when publishing paper changes. Author order and affiliation markers in `index.html` follow the paper.
+The paper is published at [arXiv:2611.08286](https://arxiv.org/abs/2611.08286). The Paper button and `/paper/` redirect point to arXiv. [`citation.bib`](citation.bib) contains the arXiv-exported citation. Author order and affiliation markers in `index.html` follow the paper.
