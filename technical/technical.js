@@ -76,8 +76,8 @@ const axes=[
  {key:'interruption',title:'Interruption preference',levels:['Step-by-step','Moderate','Necessary only']},
 ];
 for(const axis of axes){
- const row=document.createElement('fieldset');row.className='persona-row';const title=document.createElement('legend');title.textContent=axis.title;const choices=document.createElement('div');choices.className='persona-levels';
- axis.levels.forEach((label,i)=>{const b=document.createElement('button');b.type='button';b.textContent=label;b.setAttribute('aria-pressed',i===(axis.key==='interruption'?2:1));b.addEventListener('click',()=>{[...choices.children].forEach((s,j)=>s.setAttribute('aria-pressed',i===j));});choices.append(b);});
+ const row=document.createElement('div');row.className='persona-row';const title=document.createElement('h4');title.id=`persona-axis-${axis.key}`;title.textContent=axis.title;const choices=document.createElement('ul');choices.className='persona-levels';choices.setAttribute('aria-labelledby',title.id);
+ axis.levels.forEach(label=>{const level=document.createElement('li');level.textContent=label;choices.append(level);});
  row.append(title,choices);document.querySelector('#persona-controls').append(row);
 }
 fetch(new URL('./persona-clips.json',import.meta.url)).then(r=>r.json()).then(clips=>{
