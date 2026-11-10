@@ -14,7 +14,7 @@ paper=json.loads(snapshot.read_text())
 site=json.loads((ROOT/'data/leaderboard.json').read_text())
 display=json.loads((PAPER/'tables/results_display.json').read_text())
 assert {m['id'] for m in site['models']}==set(display['main_models'])
-assert len(site['models'])==16
+assert len(site['models'])==15
 checks=0
 for m in site['models']:
     for cond in ['fixed','measured']:
@@ -23,7 +23,7 @@ for m in site['models']:
             values=[b['success'],b['recall'],*b['rubrics'].values(),b['quality']]
             for x,y in zip(values,a['values']):assert math.isclose(x,100*y,abs_tol=1e-10);checks+=1
             assert len(b['runs'])==3
-            for k in ['success','recall','quality']:assert math.isclose(b[k],fmean(r[k] for r in b['runs']),abs_tol=(.1000001 if m['id']=='claude-opus-5.5' and k=='quality' else 1e-10))
+            for k in ['success','recall','quality']:assert math.isclose(b[k],fmean(r[k] for r in b['runs']),abs_tol=1e-10)
         for k in ['success','quality','recall']:assert math.isclose(m['conditions'][cond]['overall'][k],fmean(e[k] for e in m['conditions'][cond]['engines'].values()),abs_tol=1e-10)
     assert m['engines']==m['conditions']['fixed']['engines']
     assert m['conditions']['fixed']['engines']['screensim']==m['conditions']['measured']['engines']['screensim']
